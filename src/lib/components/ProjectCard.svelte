@@ -28,9 +28,7 @@
       {/if}
     </h3>
     <p>
-      {project.id === 'ryansalikcom'
-        ? 'An earlier iteration of my personal corner of the internet, built with Next.js.'
-        : project.blurb}
+      {project.blurb}
     </p>
     <div class="project-stack">{project.stack.join(' / ')}</div>
   </div>
