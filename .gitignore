@@ -1,0 +1,15 @@
+node_modules/
+.svelte-kit/
+build/
+.wrangler/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Local planning and agent reference files
+/AGENTS.md
+/task.md
+/inspo.png

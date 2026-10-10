@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ryansalik-com",
+  "pages_build_output_dir": ".svelte-kit/cloudflare",
+  "compatibility_date": "2026-09-19",
+  "compatibility_flags": ["nodejs_als"],
+  "vars": {
+    "PHOTO_IMAGE_BASE_URL": "https://cdn.photos.ryansalik.com"
+  }
+}
