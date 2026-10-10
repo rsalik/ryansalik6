@@ -1,6 +1,6 @@
-# Ryan Salik’s portfolio
+# ryansalik.com (v6)
 
-Personal portfolio at [ryansalik.com](https://ryansalik.com), built with TypeScript, SvelteKit, and Cloudflare Pages. Features project pages and an interactive photography mosaic.
+Personal portfolio at [ryansalik.com](https://ryansalik.com), built with TypeScript, SvelteKit, and Cloudflare Pages.
 
 ## Development
 

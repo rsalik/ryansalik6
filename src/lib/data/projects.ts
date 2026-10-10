@@ -111,7 +111,7 @@ export const projects: Project[] = [
     name: 'ryansalik.com',
     image: '/projects/ryansalik.png',
     description: "The website you're on right now! Built with SvelteKit and TypeScript. Hosted on Cloudflare Pages.",
-    repoLink: 'https://github.com/rsalik/ryansalik.com',
+    repoLink: 'https://github.com/rsalik/ryansalik6',
     webLink: 'https://ryansalik.com',
     imageAlt: 'ryansalik.com project screenshot',
     blurb: "The website you're on right now! Built with SvelteKit and TypeScript. Hosted on Cloudflare Pages.",
